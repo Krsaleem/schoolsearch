@@ -1,0 +1,1 @@
+dotnet run -p src\SchoolSearch.WebUI\SchoolSearch.WebUI.csproj
